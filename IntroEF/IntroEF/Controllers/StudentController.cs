@@ -1,4 +1,5 @@
-﻿using IntroEF.EF;
+﻿using IntroEF.DTOs;
+using IntroEF.EF;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,18 +14,49 @@ namespace IntroEF.Controllers
 
         // GET: Student
 
+        public static Student Convert(StudentDTO s) {
+            return new Student() {
+                Name = s.Name,
+                DeptId = s.DeptId,
+                Email = s.Email,
+                Gender = s.Gender
+            };
+        }
+        public static StudentDTO Convert(Student s) {
+            return new StudentDTO()
+            {
+                Name = s.Name,
+                DeptId = s.DeptId,
+                Email = s.Email,
+                Gender = s.Gender
+            };
+        }
+        public static List<StudentDTO> Convert(List<Student> list) { 
+            var data = new List<StudentDTO>();
+            foreach (var item in list)
+            {
+                data.Add(Convert(item));
+            }
+            return data;
+        }
+
         [HttpGet]
         public ActionResult Create() { 
-            return View(new Student());
+            return View(new StudentDTO());
         }
 
         [HttpPost]
-        public ActionResult Create(Student s)
+        public ActionResult Create(StudentDTO s)
         {
-            db.Students.Add(s);
-            db.SaveChanges();
-            TempData["Msg"] = "Student " + s.Name + " Created";
-            return RedirectToAction("List");
+            if (ModelState.IsValid) {
+                var st = Convert(s);
+                db.Students.Add(st);
+                db.SaveChanges();
+                TempData["Msg"] = "Student " + s.Name + " Created";
+                return RedirectToAction("List");
+            }
+            return View(s);
+            
         }
         public ActionResult List(string search) {
             if (search != null) {
@@ -34,7 +66,7 @@ namespace IntroEF.Controllers
                 return View(filter);
             }
             var data = db.Students.ToList();
-            return View(data);
+            return View(Convert(data));
         }
         public ActionResult Details(int id) {
             var data = db.Students.Find(id); //find only search with primary key
@@ -46,7 +78,7 @@ namespace IntroEF.Controllers
             return View(data);
         }
         [HttpPost]
-        public ActionResult Update(Student s) {
+        public ActionResult Update(StudentDTO s) {
             var dbObj = db.Students.Find(s.Id);
             //s.Cgpa = dbObj.Cgpa;
             //db.Students.Remove(dbObj);
