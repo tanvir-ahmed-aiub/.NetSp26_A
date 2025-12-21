@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ef\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\migrations\\20251221073655_courseaddeddeptchng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251221073655_courseaddeddeptchng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\migrations\\20251221072900_intidbdeptst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20251221072900_intidbdeptst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2BC5672C-A9AA-4A9D-8530-709EE1E59DA7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebApplication1",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-21T07:59:12.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:57:19.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:56:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:25:47.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\EF\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Department.cs",
+              "RelativeToolTip": "WebApplication1\\EF\\Models\\Department.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA1wAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:17:51.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\EF\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Course.cs",
+              "RelativeToolTip": "WebApplication1\\EF\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:34:23.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251221073655_CourseAddedDeptChng.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Migrations\\20251221073655_CourseAddedDeptChng.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251221073655_CourseAddedDeptChng.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Migrations\\20251221073655_CourseAddedDeptChng.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251221073655_CourseAddedDeptChng.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:37:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251221072900_IntiDBDeptSt.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Migrations\\20251221072900_IntiDBDeptSt.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20251221072900_IntiDBDeptSt.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\Migrations\\20251221072900_IntiDBDeptSt.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20251221072900_IntiDBDeptSt.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:29:16.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\EF\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "WebApplication1\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:14:39.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-21T07:26:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\WebApplication1\\WebApplication1\\EF\\UMSContext.cs",
+              "RelativeToolTip": "WebApplication1\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T07:18:55.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
