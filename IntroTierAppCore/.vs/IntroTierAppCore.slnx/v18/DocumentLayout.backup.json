@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "AppAPICore\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "AppAPICore\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:29:18.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:23:09.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\DepartmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:21:54.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\DepartmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\DepartmentRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\DepartmentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\DepartmentRepo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAADgvyAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:17:05.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Department.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:51:43.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Program.cs",
+              "RelativeDocumentMoniker": "AppAPICore\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Program.cs",
+              "RelativeToolTip": "AppAPICore\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:42:24.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\StudentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAjwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:18:04.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAMwBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:06:34.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA8wAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:09:20.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BLL",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T07:00:13.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\UMSContext.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:52:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\appsettings.json",
+              "RelativeDocumentMoniker": "AppAPICore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\appsettings.json",
+              "RelativeToolTip": "AppAPICore\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-28T07:53:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DAL",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T07:18:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Student.cs",
+              "RelativeToolTip": "DAL\\EF\\Models\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAzwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:19:02.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppAPICore",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\AppAPICore.csproj",
+              "RelativeDocumentMoniker": "AppAPICore\\AppAPICore.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\AppAPICore.csproj",
+              "RelativeToolTip": "AppAPICore\\AppAPICore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T06:58:11.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AppAPICore\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AppAPICore\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T07:01:55.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:57:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Class1.cs",
+              "RelativeToolTip": "BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T06:57:43.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
