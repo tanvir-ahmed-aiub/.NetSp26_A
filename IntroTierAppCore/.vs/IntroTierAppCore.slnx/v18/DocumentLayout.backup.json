@@ -3,76 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\departmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\services\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\appapicore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32354DD2-A3FD-4AB6-A462-72AD249DA7AD}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6131A4-8B4C-06E7-BA30-69281B0CEE3A}|AppAPICore\\AppAPICore.csproj|solutionrelative:appapicore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9DE6D261-C91C-4EDD-A4A1-84559149BE4B}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A4C044D-69F0-416D-A3A1-75ADE9BBCAB6}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introtierappcore\\bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "AppAPICore\\Controllers\\DepartmentController.cs",
@@ -94,12 +94,11 @@
               "RelativeToolTip": "AppAPICore\\Controllers\\DepartmentController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAA6wBcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:29:18.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:29:18.665Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "DepartmentDTO.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\DepartmentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\DepartmentDTO.cs",
@@ -107,25 +106,24 @@
               "RelativeToolTip": "BLL\\DTOs\\DepartmentDTO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T08:23:09.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T08:23:09.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "DepartmentService.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\DepartmentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\DepartmentService.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\DepartmentService.cs",
               "RelativeToolTip": "BLL\\Services\\DepartmentService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvyUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-28T08:21:54.546Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DepartmentRepo.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\DepartmentRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\DepartmentRepo.cs",
@@ -138,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Department.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Department.cs",
@@ -146,8 +144,7 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:51:43.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:51:43.236Z"
             },
             {
               "$type": "Document",
@@ -159,12 +156,11 @@
               "RelativeToolTip": "AppAPICore\\Program.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:42:24.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:42:24.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "StudentRepo.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\Repos\\StudentRepo.cs",
               "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepo.cs",
@@ -172,12 +168,11 @@
               "RelativeToolTip": "DAL\\Repos\\StudentRepo.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAjwB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:18:04.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:18:04.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
@@ -185,12 +180,11 @@
               "RelativeToolTip": "BLL\\Services\\StudentService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAMwBcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:06:34.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:06:34.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\DTOs\\StudentDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\StudentDTO.cs",
@@ -198,21 +192,19 @@
               "RelativeToolTip": "BLL\\DTOs\\StudentDTO.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAA8wAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:09:20.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:09:20.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BLL",
+              "DocumentIndex": 9,
+              "Title": "BLL.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\BLL\\BLL.csproj",
               "RelativeToolTip": "BLL\\BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-28T07:00:13.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:00:13.26Z"
             },
             {
               "$type": "Document",
@@ -224,12 +216,11 @@
               "RelativeToolTip": "DAL\\EF\\UMSContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:52:31.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:52:31.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\appsettings.json",
               "RelativeDocumentMoniker": "AppAPICore\\appsettings.json",
@@ -237,25 +228,23 @@
               "RelativeToolTip": "AppAPICore\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-28T07:53:54.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:53:54.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DAL",
+              "DocumentIndex": 12,
+              "Title": "DAL.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-28T07:18:40.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:18:40.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\DAL\\EF\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DAL\\EF\\Models\\Student.cs",
@@ -263,21 +252,19 @@
               "RelativeToolTip": "DAL\\EF\\Models\\Student.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAzwA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:19:02.96Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:19:02.96Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AppAPICore",
+              "DocumentIndex": 14,
+              "Title": "AppAPICore.csproj",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\AppAPICore.csproj",
               "RelativeDocumentMoniker": "AppAPICore\\AppAPICore.csproj",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroTierAppCore\\AppAPICore\\AppAPICore.csproj",
               "RelativeToolTip": "AppAPICore\\AppAPICore.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-28T06:58:11.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T06:58:11.289Z"
             },
             {
               "$type": "Document",
@@ -289,8 +276,7 @@
               "RelativeToolTip": "AppAPICore\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T07:01:55.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T07:01:55.602Z"
             },
             {
               "$type": "Document",
@@ -302,8 +288,7 @@
               "RelativeToolTip": "DAL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:57:58.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T06:57:58.492Z"
             },
             {
               "$type": "Document",
@@ -315,8 +300,7 @@
               "RelativeToolTip": "BLL\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-28T06:57:43.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T06:57:43.832Z"
             }
           ]
         }
