@@ -12,14 +12,14 @@ namespace BLL.Services
 {
     public class DepartmentService
     {
-        DepartmentRepo repo;
+        Repository<Department> repo;
         Mapper GetMapper() {
             var config = new MapperConfiguration(cfg => {
                 cfg.CreateMap<Department, DepartmentDTO>().ReverseMap();
             });
             return new Mapper(config);
         }
-        public DepartmentService(DepartmentRepo repo) {
+        public DepartmentService(Repository<Department> repo) {
             this.repo = repo;
         }
         public List<DepartmentDTO> Get() {

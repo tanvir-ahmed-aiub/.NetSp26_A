@@ -1,5 +1,6 @@
 ﻿using DAL.EF;
 using DAL.EF.Models;
+using DAL.Interfaces;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using System;
 using System.Collections.Generic;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    public class StudentRepo
+    public class StudentRepo : IRepo<Student>
     {
         UMSContext db;
         public StudentRepo(UMSContext db) { 
@@ -31,6 +32,20 @@ namespace DAL.Repos
             db.Students.Add(student);
             return db.SaveChanges() > 0;
         }
-        
+
+        public bool Update(Student obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Student Get(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool Delete(int id)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

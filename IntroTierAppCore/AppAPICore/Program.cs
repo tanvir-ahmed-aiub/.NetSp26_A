@@ -1,5 +1,7 @@
 using BLL.Services;
 using DAL.EF;
+using DAL.EF.Models;
+using DAL.Interfaces;
 using DAL.Repos;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,7 +15,10 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<StudentService>();
 builder.Services.AddScoped<StudentRepo>();
-builder.Services.AddScoped<DepartmentRepo>();
+//builder.Services.AddScoped<Repository<Department>>();
+//*********
+builder.Services.AddScoped(typeof(Repository<>));
+//*********
 builder.Services.AddScoped<DepartmentService>();
 builder.Services.AddDbContext<UMSContext>(opt =>
 {
