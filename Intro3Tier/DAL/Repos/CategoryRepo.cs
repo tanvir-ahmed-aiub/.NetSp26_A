@@ -1,6 +1,7 @@
 ﻿using DAL.EF;
 using DAL.EF.Models;
 using DAL.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class CategoryRepo : IRepository<Category>
+    internal class CategoryRepo : IRepository<Category>, ICategoryFeature
     {
         PMSContext db;
         public CategoryRepo(PMSContext db)
@@ -23,6 +24,9 @@ namespace DAL.Repos
         }
         public List<Category> Get() { 
             return db.Categories.ToList();
+        }
+        public List<Category> GetwithProducts() {
+            return db.Categories.Include(c=>c.Products).ToList();
         }
         public Category Get(int id) {
             return db.Categories.Find(id);
@@ -37,7 +41,36 @@ namespace DAL.Repos
             db.Categories.Remove(ex);
             return db.SaveChanges() > 0;
         }
-        
-           
+
+        public Category GetwithProducts(int id)
+        {
+            var cat = (from c in db.Categories.Include(ct=>ct.Products)   
+                          where c.Id == id
+                          select c).SingleOrDefault();
+            return cat;
+        }
+
+        public Category FindByName(string name)
+        {
+            var cat = (from c in db.Categories
+                      where c.Name.Contains(name)
+                      select c).SingleOrDefault();
+            return cat;
+        }
+
+        public Category FindByNameWithProducts(string name)
+        {
+            var cat = db.Categories.Include(ct => ct.Products)
+                .SingleOrDefault(c=> c.Name.Contains(name));
+            return cat;
+        }
+
+        public Category HighestProducts()
+        {
+            var cat = (from c in db.Categories.Include(c=>c.Products)
+                      orderby c.Products.Count() descending select c).FirstOrDefault();
+            return cat;
+
+        }
     }
 }

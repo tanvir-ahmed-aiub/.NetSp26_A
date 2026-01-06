@@ -125,6 +125,18 @@
         }
       }
     },
+    "/api/Category/all/products": {
+      "get": {
+        "tags": [
+          "Category"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Product/all": {
       "get": {
         "tags": [

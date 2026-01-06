@@ -27,6 +27,16 @@
   },
   {
     "ContainingType": "APIApp.Controllers.CategoryController",
+    "Method": "AllwithProducts",
+    "RelativePath": "api/Category/all/products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "APIApp.Controllers.CategoryController",
     "Method": "Create",
     "RelativePath": "api/Category/create",
     "HttpMethod": "POST",

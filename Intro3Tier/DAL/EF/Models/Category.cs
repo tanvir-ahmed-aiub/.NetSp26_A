@@ -14,5 +14,9 @@ namespace DAL.EF.Models
         [StringLength(50)]
         [Column(TypeName = "VARCHAR")]
         public string Name { get; set; }
+        public virtual List<Product>Products { get; set; }
+        public Category() { 
+            Products = new List<Product>();
+        }
     }
 }

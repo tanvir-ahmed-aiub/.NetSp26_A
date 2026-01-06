@@ -1,5 +1,6 @@
 ﻿using DAL.EF;
 using DAL.EF.Models;
+using DAL.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    public class ProductRepo
+    public class ProductRepo : IRepository<Product>
     {
         PMSContext db;
         public ProductRepo(PMSContext db)

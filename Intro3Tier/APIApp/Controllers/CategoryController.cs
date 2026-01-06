@@ -61,5 +61,10 @@ namespace APIApp.Controllers
                 return BadRequest(res);
             }
         }
+        [HttpGet("all/products")]
+        public IActionResult AllwithProducts() { 
+            var res = service.GetWithProducts();
+            return Ok(res);
+        }
     }
 }

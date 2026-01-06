@@ -18,7 +18,10 @@ namespace DAL
             this.db = db;
         }
         public IRepository<Category> CategoryData() {
-            return new CategoryRepoV2();
+            return new CategoryRepo(db);
+        }
+        public ICategoryFeature CategoryFeature() {
+            return new CategoryRepo(db);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DAL.EF.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,5 +14,6 @@ namespace DAL.Interfaces
         bool Create(T entity);
         bool Update(T entity);
         bool Delete(int id);
+        
     }
 }

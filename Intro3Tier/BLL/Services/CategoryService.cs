@@ -40,5 +40,10 @@ namespace BLL.Services
         public bool Delete(int id) {
             return factory.CategoryData().Delete(id);
         }
+        public List<CategoryProductDTO> GetWithProducts() {
+            var data = factory.CategoryFeature().GetwithProducts();
+            var ret = MapperConfig.GetMapper().Map<List<CategoryProductDTO>>(data);
+            return ret;
+        }
     }
 }
