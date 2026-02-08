@@ -1,4 +1,44 @@
-﻿<table class="table table-bordered">
+﻿@{
+    // var deg1 = "SSC";
+    // var res1 = 3.40;
+    var degrees = new string[] { "SSC","HSC"};
+    var results = new double[] { 3.50, 5.00};
+}
+<h1>Name : @ViewBag.Name</h1>
+<h1>Name : @ViewData["Name"]</h1>
+<h1>Id : @ViewBag.Id</h1>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Sl</th>
+            <th>Degree</th>
+            <th>Result</th>
+            <th>Flag</th>
+        </tr>
+    </thead>
+    <tbody>
+        @for (int i = 0; i < degrees.Length; i++)
+        {
+            
+            <tr>
+                <td>@(i+1)</td>
+                <td>@degrees[i]</td>
+                <td>@results[i]</td>
+                @if (results[i] == 5.00)
+                {
+                    <td><span>Congrats</span></td>
+                }
+                else
+                {
+                    <td><span>BLNT</span></td>
+                
+                }
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* <table class="table table-bordered">
 
     <tr>
         <th>Sl</th>
@@ -7,8 +47,8 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>SSC</td>
-        <td>4.56</td>
+        <td>@deg1</td>
+        <td>@res1</td>
     </tr>
     <tr>
         <td>1</td>
@@ -20,4 +60,4 @@
         <td>SSC</td>
         <td>4.56</td>
     </tr>
-</table>
+</table> *@
