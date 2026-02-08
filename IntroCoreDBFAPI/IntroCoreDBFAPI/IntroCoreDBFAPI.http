@@ -1,6 +1,0 @@
-@IntroCoreDBFAPI_HostAddress = http://localhost:5008
-
-GET {{IntroCoreDBFAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
