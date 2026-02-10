@@ -1,0 +1,25 @@
+﻿@model List<Student>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Cgpa</th>
+            <th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Cgpa</td>
+                <td>
+                    <a class="btn btn-info" href="/student/details/@item.Id">Details</a>
+                </td>
+            </tr>
+            
+        }
+    </tbody>
+</table>

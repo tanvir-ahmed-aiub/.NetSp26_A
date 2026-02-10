@@ -11,6 +11,10 @@ namespace IntroMVCCore.Controllers
             
         }
         public IActionResult Education() {
+            int test = 68;
+            if (test >67) {
+                return RedirectToAction("Education2");
+            }
 
             ViewData["Name"] ="Tanvir"; //Dictionary
 
@@ -33,5 +37,6 @@ namespace IntroMVCCore.Controllers
             EducationItem[] edus = new EducationItem[] { ed1,ed2};
             return View(edus); //model Binding
         }
+        
     }
 }

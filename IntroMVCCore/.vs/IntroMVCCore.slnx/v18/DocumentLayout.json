@@ -3,16 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\portfolio\\education2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\portfolio\\education2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\shared\\_mylayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\models\\educationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\models\\educationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\portfolio\\education2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\portfolio\\education2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\portfolio\\education.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|solutionrelative:intromvccore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3517904-3A7D-ACF5-838F-F8400B670763}|IntroMVCCore\\IntroMVCCore.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\intromvccore\\intromvccore\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -42,24 +74,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EducationItem.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\EducationItem.cs",
-              "RelativeDocumentMoniker": "IntroMVCCore\\Models\\EducationItem.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\EducationItem.cs",
-              "RelativeToolTip": "IntroMVCCore\\Models\\EducationItem.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-08T07:44:28.813Z",
+              "Title": "_MyLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Shared\\_MyLayout.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Shared\\_MyLayout.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Shared\\_MyLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:51:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:51:00.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:49:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:48:14.599Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:00:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroMVCCore\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:55:25.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-10T07:05:44.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Education2.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Education2.cshtml",
               "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Portfolio\\Education2.cshtml",
@@ -72,20 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Education.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
-              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
-              "RelativeToolTip": "IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T08:20:04.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Portfolio\\Index.cshtml",
@@ -93,18 +190,17 @@
               "RelativeToolTip": "IntroMVCCore\\Views\\Portfolio\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-03T08:18:53.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T08:18:53.032Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "PortfolioController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Controllers\\PortfolioController.cs",
               "RelativeDocumentMoniker": "IntroMVCCore\\Controllers\\PortfolioController.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Controllers\\PortfolioController.cs",
               "RelativeToolTip": "IntroMVCCore\\Controllers\\PortfolioController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAqwCEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwCcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-03T08:12:38.775Z",
               "EditorCaption": ""
@@ -112,6 +208,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Program.cs",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Program.cs",
+              "RelativeToolTip": "IntroMVCCore\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T07:31:35.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\Student.cs",
+              "RelativeToolTip": "IntroMVCCore\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T06:55:35.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Home\\Privacy.cshtml",
@@ -123,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "IntroMVCCore\\Controllers\\HomeController.cs",
@@ -136,16 +258,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Program.cs",
-              "RelativeDocumentMoniker": "IntroMVCCore\\Program.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Program.cs",
-              "RelativeToolTip": "IntroMVCCore\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "EducationItem.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\EducationItem.cs",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Models\\EducationItem.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Models\\EducationItem.cs",
+              "RelativeToolTip": "IntroMVCCore\\Models\\EducationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T07:31:35.014Z",
+              "WhenOpened": "2026-02-08T07:44:28.813Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Education.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
+              "RelativeDocumentMoniker": "IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroMVCCore\\IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
+              "RelativeToolTip": "IntroMVCCore\\Views\\Portfolio\\Education.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-03T08:20:04.389Z"
             }
           ]
         }
