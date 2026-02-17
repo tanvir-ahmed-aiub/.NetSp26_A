@@ -1,0 +1,22 @@
+﻿
+@{
+    ViewData["Title"] = "Login";
+}
+
+@if (TempData["Msg"] != null)
+{
+    
+    <span class="text-success">@TempData["Msg"]</span>
+}
+
+@* @Html.ValidationSummary() *@
+
+<h1>Login</h1>
+<form action="" method="post">
+    <input type="text" name="Uname" placeholder="Username" class="form-control"></>
+    <span class="text-danger">@Html.ValidationMessage("Uname")</span>
+    <input type="password" name="Pass" placeholder="Password" class="form-control" />
+    <span class="text-danger">@Html.ValidationMessage("Pass")</span>
+    <input type="submit" value="Login" class="btn btn-primary" />
+</form>
+

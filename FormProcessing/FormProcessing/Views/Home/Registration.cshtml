@@ -1,0 +1,23 @@
+﻿@Html.ValidationSummary()
+<form action="" method="post">
+    <input type="text" class="form-control col-md-3" name="Name" placeholder="Name" />
+    <input type="text" class="form-control col-md-3" name="Email" placeholder="Email" />
+    Gender: 
+    <input type="radio" name="Gender"  value="Male"/> Male
+    <input type="radio" name="Gender"  value="Female"/> Female
+    <br />
+    Department:
+    <select name="Department">
+        <option disabled selected>--Select Dept--</option>
+        <option>CS</option>
+        <option>EEE</option>
+        <option>BBA</option>
+    </select>
+    <br />
+    Hobbies:
+    <input type="checkbox" name="Hobbies[]" value="Football" />Football
+    <input type="checkbox" name="Hobbies[]" value="Cricket" />Cricket
+    <input type="checkbox" name="Hobbies[]" value="Travelling" />Travelling
+    <input type="text" class="form-control col-md-3" name="Roll" placeholder="Roll" />
+    <input type="submit" value="Registration" class="btn btn-primary" />
+</form>
