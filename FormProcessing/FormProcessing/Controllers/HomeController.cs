@@ -39,7 +39,7 @@ namespace FormProcessing.Controllers
         //}
         [HttpGet]
         public IActionResult Registration() {
-            return View();
+            return View(new RegistrationModel());
         }
         [HttpPost]
         public IActionResult Registration(RegistrationModel obj) {
@@ -47,7 +47,7 @@ namespace FormProcessing.Controllers
                 TempData["Msg"] = "Registration was successful";
                 return RedirectToAction("Login");   
             }
-            return View();
+            return View(obj);
         }
 
 

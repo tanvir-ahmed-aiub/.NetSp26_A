@@ -1,23 +1,56 @@
 ﻿@Html.ValidationSummary()
+@{
+    bool CheckGender(string gn)
+    {
+        if (Model.Gender != null && Model.Gender.Equals(gn))
+        {
+            return true;
+        }
+        return false;
+
+    }
+    bool CheckDepartment(string dept)
+    {
+        if (Model.Department != null && Model.Department.Equals(dept))
+        {
+            return true;
+        }
+        return false;
+
+    }
+    bool CheckHobbies(string hb)
+    {
+        if (Model.Hobbies != null)
+        {
+            foreach (var h in Model.Hobbies)
+
+            {
+                if (h.Equals(hb)) return true;
+            }
+
+        }
+        return false;
+    }
+}
 <form action="" method="post">
-    <input type="text" class="form-control col-md-3" name="Name" placeholder="Name" />
-    <input type="text" class="form-control col-md-3" name="Email" placeholder="Email" />
+    <input type="text" class="form-control" value="@Model.Name"  name="Name" placeholder="Name" />
+    <input type="text" class="form-control col-md-3" value="@Model.Email" name="Email" placeholder="Email" />
     Gender: 
-    <input type="radio" name="Gender"  value="Male"/> Male
-    <input type="radio" name="Gender"  value="Female"/> Female
+    <input type="radio" name="Gender" checked="@CheckGender("Male")" value="Male"/> Male
+    <input type="radio" name="Gender" checked="@CheckGender("Female")" value="Female" /> Female
     <br />
     Department:
     <select name="Department">
         <option disabled selected>--Select Dept--</option>
-        <option>CS</option>
-        <option>EEE</option>
-        <option>BBA</option>
+        <option selected="@CheckDepartment("CS")">CS</option>
+        <option selected="@CheckDepartment("EEE")">EEE</option>
+        <option selected="@CheckDepartment("BBA")">BBA</option>
     </select>
     <br />
     Hobbies:
-    <input type="checkbox" name="Hobbies[]" value="Football" />Football
-    <input type="checkbox" name="Hobbies[]" value="Cricket" />Cricket
-    <input type="checkbox" name="Hobbies[]" value="Travelling" />Travelling
-    <input type="text" class="form-control col-md-3" name="Roll" placeholder="Roll" />
+    <input type="checkbox" checked="@CheckHobbies("Football")" name="Hobbies[]" value="Football" />Football
+    <input type="checkbox" checked="@CheckHobbies("Cricket")"  name="Hobbies[]" value="Cricket" />Cricket
+    <input type="checkbox" checked="@CheckHobbies("Travelling")" name="Hobbies[]" value="Travelling" />Travelling
+    <input type="text" value="@Model.Roll" class="form-control col-md-3" name="Roll" placeholder="Roll" />
     <input type="submit" value="Registration" class="btn btn-primary" />
 </form>
