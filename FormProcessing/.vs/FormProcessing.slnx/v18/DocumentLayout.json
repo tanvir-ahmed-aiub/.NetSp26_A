@@ -46,8 +46,7 @@
               "RelativeToolTip": "FormProcessing\\Models\\RegistrationModel.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T08:03:08.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T08:03:08.084Z"
             },
             {
               "$type": "Document",
@@ -96,8 +95,7 @@
               "RelativeToolTip": "FormProcessing\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-17T06:55:01.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T06:55:01.39Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "FormProcessing\\Controllers\\HomeController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAuwDEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-17T06:53:42.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-17T06:53:42.605Z"
             }
           ]
         }
