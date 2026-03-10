@@ -6,3 +6,21 @@
 <h1>Details</h1>
 @Model.Name,
 @Model.Id
+<h2>Courses</h2>
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Id</th>
+        <th>Dept</th>
+        <th>Students</th>
+    </tr>
+    @foreach (var item in Model.Courses)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Id</td>
+            <td>@item.DidNavigation.Name</td>
+            <td></td>
+        </tr>
+    }
+</table>

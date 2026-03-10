@@ -1,6 +1,7 @@
 ﻿using IntroEF.EF;
 using IntroEF.EF.Tables;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace IntroEF.Controllers
 {
@@ -31,9 +32,30 @@ namespace IntroEF.Controllers
         }
         public IActionResult Details(int id)
         {
-            var data = db.Departments.Find(id); //works iwth PK
+            var data = db.Departments.Include("Courses").Include("Students").SingleOrDefault(c=>c.Id==id);
+            var test = data.Courses; 
             return View(data);
             
+        }
+        [HttpGet]
+        public IActionResult Edit(int id) {
+            var data = db.Departments.Find(id);
+            return View(data);  
+        }
+        [HttpPost]
+        public IActionResult Edit(Department formObj) {
+            var dbObj = db.Departments.Find(formObj.Id);
+            dbObj.Name = formObj.Name;
+            //
+            //
+            db.SaveChanges();
+            TempData["Msg"] = "Updated Successfully";
+
+            return RedirectToAction("Index");
+
+            //var dbObj = db.Departments.Find(formObj.Id);
+            //db.Departments.Remove(dbObj)
+
         }
     }
 }

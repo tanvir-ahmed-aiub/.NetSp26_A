@@ -23,7 +23,7 @@ public partial class StudentMsASp26Context : DbContext
     public virtual DbSet<Student> Students { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Name=StudentDB");
+        => optionsBuilder.UseSqlServer("Name=DbConn");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
@@ -50,12 +50,14 @@ public partial class StudentMsASp26Context : DbContext
         modelBuilder.Entity<Student>(entity =>
         {
             entity.Property(e => e.Id).HasColumnName("ID");
-            entity.Property(e => e.Department)
-                .HasMaxLength(50)
-                .IsUnicode(false);
             entity.Property(e => e.Name)
                 .HasMaxLength(50)
                 .IsUnicode(false);
+
+            entity.HasOne(d => d.Dept).WithMany(p => p.Students)
+                .HasForeignKey(d => d.DeptId)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK_Students_Departments");
         });
 
         OnModelCreatingPartial(modelBuilder);
