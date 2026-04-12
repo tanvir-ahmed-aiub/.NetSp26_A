@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\views\\department\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introdto\\introdto\\introdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14E117CC-35A1-4F88-9478-82FD5CC64264}|IntroDTO\\IntroDTO.csproj|solutionrelative:introdto\\introdto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroDTO\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "IntroDTO\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T07:46:02.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroDTO\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:42:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\DTOs\\StudentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "IntroDTO\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:42:17.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroDTO\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAywCQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:42:02.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroDTO\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "IntroDTO\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-12T07:33:21.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "IntroDTO\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:31:46.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntroDTO",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
+              "RelativeDocumentMoniker": "IntroDTO\\IntroDTO.csproj",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\IntroDTO.csproj",
+              "RelativeToolTip": "IntroDTO\\IntroDTO.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T07:23:48.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroDTO\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:27:57.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMsASp26Context.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\EF\\StudentMsASp26Context.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\EF\\StudentMsASp26Context.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\EF\\StudentMsASp26Context.cs",
+              "RelativeToolTip": "IntroDTO\\EF\\StudentMsASp26Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:26:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Program.cs",
+              "RelativeDocumentMoniker": "IntroDTO\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\Program.cs",
+              "RelativeToolTip": "IntroDTO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T07:25:48.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\appsettings.json",
+              "RelativeDocumentMoniker": "IntroDTO\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroDTO\\IntroDTO\\appsettings.json",
+              "RelativeToolTip": "IntroDTO\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T07:18:30.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

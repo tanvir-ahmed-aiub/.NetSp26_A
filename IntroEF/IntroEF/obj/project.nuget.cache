@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8dmsw7t9g4w=",
+  "dgSpecHash": "zQLnqzk3ZiM=",
   "success": true,
   "projectFilePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\IntroEF.csproj",
   "expectedPackageFiles": [
@@ -128,5 +128,15 @@
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\system.security.cryptography.pkcs\\9.0.4\\system.security.cryptography.pkcs.9.0.4.nupkg.sha512",
     "C:\\Users\\Tanvir Ahmed\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.6\\system.security.cryptography.protecteddata.9.0.6.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\IntroEF.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\IntroEF.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

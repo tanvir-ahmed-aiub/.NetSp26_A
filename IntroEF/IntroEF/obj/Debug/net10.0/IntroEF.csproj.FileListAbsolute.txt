@@ -337,4 +337,3 @@ C:\Users\Tanvir Ahmed\Desktop\.NET\A\IntroEF\IntroEF\bin\Debug\net10.0\ru\Micros
 C:\Users\Tanvir Ahmed\Desktop\.NET\A\IntroEF\IntroEF\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\A\IntroEF\IntroEF\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\Tanvir Ahmed\Desktop\.NET\A\IntroEF\IntroEF\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
-C:\Users\Tanvir Ahmed\Desktop\.NET\A\IntroEF\IntroEF\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt

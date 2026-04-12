@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -21,30 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\views\\department\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\tables\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|c:\\users\\tanvir ahmed\\desktop\\.net\\a\\introef\\introef\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5A9031D-4C7B-2B49-221B-AC16164DE313}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\ef\\studentmsasp26context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,46 +66,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Edit.cshtml",
-              "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Edit.cshtml",
-              "RelativeToolTip": "IntroEF\\Views\\Department\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-10T06:33:55.938Z",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Student.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Student.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Student.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Tables\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T06:30:18.524Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-07T07:40:08.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:34:09.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Course.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Course.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Course.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Tables\\Course.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:17:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Department.cs",
+              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Department.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Department.cs",
+              "RelativeToolTip": "IntroEF\\EF\\Tables\\Department.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T07:17:20.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "StudentMsASp26Context.cs",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\StudentMsASp26Context.cs",
               "RelativeDocumentMoniker": "IntroEF\\EF\\StudentMsASp26Context.cs",
               "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\StudentMsASp26Context.cs",
               "RelativeToolTip": "IntroEF\\EF\\StudentMsASp26Context.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T06:37:57.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DepartmentController.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
-              "RelativeDocumentMoniker": "IntroEF\\Controllers\\DepartmentController.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\DepartmentController.cs",
-              "RelativeToolTip": "IntroEF\\Controllers\\DepartmentController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswDUAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T06:34:09.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-07T07:37:57.104Z"
             },
             {
               "$type": "Document",
@@ -105,25 +168,35 @@
               "RelativeToolTip": "IntroEF\\appsettings.json",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-01T06:54:52.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-01T06:54:52.391Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Create.cshtml",
-              "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Create.cshtml",
-              "RelativeToolTip": "IntroEF\\Views\\Department\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T06:59:00.103Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Program.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Program.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Program.cs",
+              "RelativeToolTip": "IntroEF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T06:43:49.612Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "IntroEF\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T07:33:57.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Index.cshtml",
               "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Index.cshtml",
@@ -131,38 +204,35 @@
               "RelativeToolTip": "IntroEF\\Views\\Department\\Index.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T06:51:57.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T06:51:57.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Department.cs",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Department.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Department.cs",
-              "RelativeToolTip": "IntroEF\\EF\\Tables\\Department.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAswA0AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:17:20.808Z",
-              "EditorCaption": ""
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Create.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Create.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Department\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T06:59:00.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Student.cs",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Student.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Student.cs",
-              "RelativeToolTip": "IntroEF\\EF\\Tables\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA1wA8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T06:30:18.524Z",
-              "EditorCaption": ""
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "IntroEF\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T06:33:55.938Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Views\\Department\\Details.cshtml",
               "RelativeDocumentMoniker": "IntroEF\\Views\\Department\\Details.cshtml",
@@ -170,34 +240,7 @@
               "RelativeToolTip": "IntroEF\\Views\\Department\\Details.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T07:04:14.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Course.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Course.cs",
-              "RelativeDocumentMoniker": "IntroEF\\EF\\Tables\\Course.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\EF\\Tables\\Course.cs",
-              "RelativeToolTip": "IntroEF\\EF\\Tables\\Course.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T07:17:23.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Program.cs",
-              "RelativeDocumentMoniker": "IntroEF\\Program.cs",
-              "ToolTip": "C:\\Users\\Tanvir Ahmed\\Desktop\\.NET\\A\\IntroEF\\IntroEF\\Program.cs",
-              "RelativeToolTip": "IntroEF\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T06:43:49.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T07:04:14.823Z"
             }
           ]
         }
