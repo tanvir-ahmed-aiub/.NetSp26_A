@@ -1,0 +1,36 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<form method="post">
+    <h2>Registration Form</h2>
+    <div class="col-md-6 align-content-center">
+        @Html.AntiForgeryToken()
+        <input type="text" placeholder="Name" value="@Model.Name" name="Name" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Name")</span>
+        <input type="text" placeholder="Email" value="@Model.Email" name="Email" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Email")</span>
+        <input type="text" placeholder="Username" value="@Model.Username" name="Username" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Username")</span>
+        <input type="password" placeholder="Password" name="Password" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("Password")</span>
+        <input type="password" placeholder="Confirm Password" name="ConfPassword" class="form-control" />
+        <span class="text-danger">@Html.ValidationMessage("ConfPassword")</span>
+        <select name="Type">
+            <option disabled selected>--Select User Type--</option>
+            @foreach (var item in ViewBag.Types)
+                {
+                <option value="@item.Id">@item.Type</option>
+                }
+        </select>
+        <br />
+        <input type="submit" value="Register" class="btn  btn-primary" />
+    </div>
+</form>

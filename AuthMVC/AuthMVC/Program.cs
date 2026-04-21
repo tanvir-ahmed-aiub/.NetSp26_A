@@ -3,6 +3,14 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddDistributedMemoryCache(); // Required for session 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // Session expiration 
+    options.Cookie.HttpOnly = true;                // Prevent JavaScript access 
+    options.Cookie.IsEssential = true;             // GDPR compliance 
+});
+
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<AuthASp26Context>(opt => {
@@ -30,5 +38,5 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
-
+app.UseSession();
 app.Run();

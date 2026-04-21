@@ -1,4 +1,5 @@
-﻿using AuthMVC.DTOs;
+﻿using AuthMVC.AuthFilter;
+using AuthMVC.DTOs;
 using AuthMVC.EF;
 using AuthMVC.EF.Tables;
 using Microsoft.AspNetCore.Mvc;
@@ -11,11 +12,24 @@ namespace AuthMVC.Controllers
     {
         AuthASp26Context db;
 
+
+
         public AuthController(AuthASp26Context db) {
             this.db = db;
         }
+        [Logged]
+        public IActionResult Dashboard() {
+            //if (HttpContext.Session.GetString("Uname") != null) {
+                ViewBag.Uname = HttpContext.Session.GetString("Uname");
+                ViewBag.UType = HttpContext.Session.GetInt32("UType");
+                return View();
+            //}
+            //return Unauthorized();
+            
+        }
         [HttpGet]
-        public IActionResult Login() { 
+        public IActionResult Login() {
+            
             return View();
         }
         [HttpPost]
@@ -24,7 +38,20 @@ namespace AuthMVC.Controllers
                        && u.Password.Equals(GetMd5(Pass))
                        select u).SingleOrDefault();
             if (user != null) {
-                return RedirectToAction("Dashboard");
+                HttpContext.Session.SetString("Uname",user.Username);
+                HttpContext.Session.SetInt32("UType",user.Type);
+                if (user.Type == 2)
+                {
+                    return RedirectToAction("Index", "Student");
+                }
+                else if (user.Type == 1)
+                {
+                    return RedirectToAction("Index", "Admin");
+                }
+                else if (user.Type == 3) {
+                    return RedirectToAction("Index", "Teacher");
+                }
+                
             }
             TempData["Class"] = "alert-danger";
             TempData["Msg"] = "Username & Password Invalid";
