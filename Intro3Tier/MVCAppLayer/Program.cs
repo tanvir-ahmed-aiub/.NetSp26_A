@@ -1,5 +1,7 @@
 using BLL.Services;
+using DAL.EF;
 using DAL.Repository;
+using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +9,12 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 //DI
 builder.Services.AddScoped<DepartmentService>();
+builder.Services.AddScoped<UserService>();
 builder.Services.AddScoped<DepartmentRepo>();
+builder.Services.AddScoped<UserRepo>();
+builder.Services.AddDbContext<AuthASp26Context>(opt => {
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("DbConn"));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
